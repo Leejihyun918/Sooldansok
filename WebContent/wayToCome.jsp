@@ -32,7 +32,7 @@
 	</div>
 	
 <!-- 카카오 지도 마커api -->
-<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=b658461c6581661e0d75f36cde2af74b"></script>
+<script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey= 본인 키 넣으시면 됩니다"></script>
 <script>
 var mapContainer = document.getElementById('map'), // 지도를 표시할 div 
     mapOption = { 
